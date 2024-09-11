@@ -1,2 +1,3 @@
 # Data-Science-Projects
-This repository will contains projects related to machine learning,deep learning and nlp
+This repository will contains projects related to machine learning,deep learning and nlp created by me
+
